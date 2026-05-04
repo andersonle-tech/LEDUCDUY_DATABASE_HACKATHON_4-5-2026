@@ -1,6 +1,5 @@
 -- MÃ ĐỀ 002
--- Tạo và sử dụng cơ sở dữ liệu
-CREATE DATABASE IF NOT EXISTS QuanLyRapPhim_002;
+CREATE DATABASE QuanLyRapPhim_002;
 USE QuanLyRapPhim_002;
 
 --  Bảng Movies 
